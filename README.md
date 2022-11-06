@@ -10,7 +10,8 @@ Manifest for mirroring a group of Git repository
 Run the below command to setup a mirror.
 
 ```
-repo init -u https://github.com/shugaoye/mirror.git --mirror
+repo init -u https://github.com/bsonnenf/mirror.git --mirror
+old: repo init -u https://github.com/shugaoye/mirror.git --mirror
 repo sync
 ```
 
